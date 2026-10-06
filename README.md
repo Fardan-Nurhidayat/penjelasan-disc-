@@ -1,8 +1,7 @@
-## Kosa Kata 
-most = paling menggambarkan / most
-
-least = paling tidak menggambarkan / least
-
+## Keyword 
+- most = paling menggambarkan / most
+- least = paling tidak menggambarkan / least
+- netral = most - least
 
 Malam kak, di sini aku izin jelasin kenapa pada section profil kepribadian, managerial, kepemimpinan, dimensi/tipe kepemimpinan, kesimpulan, dan saran pekerjaan berpotensi memiliki jawaban atau hasil yang sama.
 
